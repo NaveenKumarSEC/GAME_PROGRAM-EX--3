@@ -40,9 +40,3 @@ To replace the default third person character mesh with a custom skeletal mesh a
 Changing the third-person character mesh and adding animations is implemented Successfully.
 
 
-
-
-
-
-## Result
-The default Third Person C
